@@ -92,6 +92,11 @@ public class Job {
 	
 	
 	public int getRating(int numJobs, String consumerName){
+		if(this.Creater.equals(consumerName)){
+			return -1;
+		}
+		 System.out.println((name.hashCode()+Creater.hashCode()+randomNumber+RandomString.hashCode())-(numJobs+consumerName.hashCode())*2);
+		
 		return (name.hashCode()+Creater.hashCode()+randomNumber+RandomString.hashCode())-(numJobs+consumerName.hashCode())*2;
 		
 	}
