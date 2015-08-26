@@ -9,5 +9,13 @@ package main;
  */
 public class Job {
 
+	private String clientName;
+	
+	private String providerName;
+	
+	private String Job;
+	
+	
+	
 
 }
