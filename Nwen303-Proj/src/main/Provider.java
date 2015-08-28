@@ -15,6 +15,6 @@ public interface Provider {
 	
 	public void addOffer(Job temp);
 	
-	public boolean assesClient(Job temp);
+	public boolean assesClient(Job List,Job Create);
 	
 }

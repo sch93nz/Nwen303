@@ -5,6 +5,7 @@ package main;
 
 import java.util.ArrayList;
 import java.util.UUID;
+import java.util.concurrent.Semaphore;
 
 /**
  * @author sch93
@@ -16,7 +17,11 @@ public class BillBoard {
 
 	private Client[] servicesRequred = new Client[100];
 
-	private Provider[] offeringServices = new Provider[100];	
+	private Provider[] offeringServices = new Provider[100];
+	
+	private Semaphore toPut = new Semaphore(100,true);
+	
+	private Semaphore toGet = new Semaphore(100,true);
 
 	private class Clients implements Runnable,Client{
 
@@ -34,7 +39,7 @@ public class BillBoard {
 		@Override
 		public boolean findProvider(Job temp) {
 			for(int i=0;i<100;i++){
-				boolean take = assesProvider(temp);
+				boolean take = assesProvider(Jobs[i],temp);
 				if(take){
 					return true;
 				}
@@ -44,9 +49,9 @@ public class BillBoard {
 
 		@Override
 		public void addServices(Job temp) {
-
-
-
+			for(int i=0;i<100;i++){
+				
+			}
 		}
 
 		@Override
@@ -56,14 +61,20 @@ public class BillBoard {
 		}
 
 		@Override
-		public boolean assesProvider(Job temp) {
-			if(temp.getClientName()==null){
-				String Jname = temp.getProviderName();
-				String job = temp.getJob();
+		public boolean assesProvider(Job List,Job Create) {
+			if(Create.getClientName()==null){
+				String Jname = Create.getProviderName();
+				String job = Create.getJob();
 				int value = Jname.hashCode()+job.hashCode()+name.hashCode();
 				value = value%100;
 				return value > 50;
 			}
+			return false;
+		}
+
+		@Override
+		public boolean getProvider(Job temp) {
+			// TODO Auto-generated method stub
 			return false;
 		}
 	}
@@ -84,7 +95,7 @@ public class BillBoard {
 		@Override
 		public boolean findClient(Job temp) {
 			for(int i=0;i<100;i++){
-				boolean take = assesClient(temp);
+				boolean take = assesClient(Jobs[i],temp);
 				if(take){
 					return true;
 				}
@@ -94,7 +105,7 @@ public class BillBoard {
 
 		@Override
 		public void addOffer(Job temp) {
-			// TODO Auto-generated method stub
+			
 
 		}
 
@@ -105,10 +116,10 @@ public class BillBoard {
 		}
 
 		@Override
-		public boolean assesClient(Job temp) {
-			if(temp.getProviderName()==null){
-				String Jname = temp.getClientName();
-				String job = temp.getJob();
+		public boolean assesClient(Job List,Job Create) {
+			if(Create.getProviderName()==null){
+				String Jname = Create.getClientName();
+				String job = Create.getJob();
 				int value = Jname.hashCode()+job.hashCode()+name.hashCode();
 				value = value%100;
 				return value > 50;
