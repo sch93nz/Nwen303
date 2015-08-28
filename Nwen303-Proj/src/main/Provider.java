@@ -9,12 +9,14 @@ package main;
  */
 public interface Provider {
 
-	public void offeringServices();
+	public boolean offeringServices() throws InterruptedException;
 	
 	public boolean findClient(Job temp);
 	
-	public void addOffer(Job temp);
+	public void addOffer(Job temp) throws InterruptedException;
 	
 	public boolean assesClient(Job List,Job Create);
+
+	public boolean getClient(Job temp) throws InterruptedException;
 	
 }
