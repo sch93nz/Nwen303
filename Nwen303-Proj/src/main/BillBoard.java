@@ -7,6 +7,7 @@ import java.util.UUID;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author sch93
@@ -27,7 +28,7 @@ public class BillBoard {
 	private boolean running = true;
 	
 	public static void main(String[] args){
-		new BillBoard().begin(5,2);
+		new BillBoard().begin(2,2);
 	}
 
 	private void begin(int max,int maxThreadPool) {
@@ -39,7 +40,13 @@ public class BillBoard {
 			exector.execute((Runnable) servicesRequired[i]);
 			exector.execute((Runnable) offeringServices[i]);
 		}
-		exector.shutdown();
+		
+		try {
+			exector.awaitTermination(10, TimeUnit.MINUTES);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		System.out.println(System.currentTimeMillis());
 	}
 
@@ -81,7 +88,7 @@ public class BillBoard {
 	private class Clients implements Runnable,Client{
 
 		public final String name;
-
+		private int Client =0;
 		/**
 		 * @param name
 		 */
@@ -104,6 +111,7 @@ public class BillBoard {
 
 		@Override
 		public boolean findProvider(Job temp) {
+			System.out.println(toString()+ " finding Provider");
 			for(int i=0;i<100;i++){
 				boolean take = assesProvider(Jobs[i],temp);
 				if(take){
@@ -125,7 +133,7 @@ public class BillBoard {
 
 		@Override
 		public void run() {
-			for(int i=0;i<100;i++){
+			for(int i=0;i<10;i++){
 				try {
 					boolean temp =requireService();
 					if(temp){
@@ -137,15 +145,19 @@ public class BillBoard {
 					e.printStackTrace();
 				}
 			}
+			System.out.println(toString()+" Total jobs "+Client);
 		}
 
 		@Override
 		public boolean assesProvider(Job List,Job Create) {
-			if(Create.getClientName()==null){
-				String Jname = Create.getProviderName();
+			if(List!=null && List.getClientName()==null){
+				String Lname = List.getProviderName();
 				String job = Create.getJob();
-				int value = Jname.hashCode()+job.hashCode()+name.hashCode();
-				value = value%100;
+				String Ljob= List.getJob();
+				int value = Ljob.hashCode()+Lname.hashCode()+job.hashCode()+name.hashCode();
+				//System.out.println(value);
+				value = Math.abs(value%100);
+				//System.out.println(value);
 				return value > 50;
 			}
 			return false;
@@ -154,12 +166,15 @@ public class BillBoard {
 		@Override
 		public boolean getProvider(Job temp) throws InterruptedException {
 			toGet.acquire();
-			get(temp.hashCode(),this);
+			temp = get(temp.hashCode(),this);
+			toPut.release();
 			System.out.println("Get Provider");
 			System.out.println(toString());
+			if(temp !=null){
 			System.out.println(temp.toString());
-			toPut.release();
-			return false;
+			Client++;
+			}
+			return temp!=null;
 		}
 
 		/* (non-Javadoc)
@@ -174,7 +189,7 @@ public class BillBoard {
 	private class Providers implements Runnable,Provider{
 
 		public final String name;
-
+		private int Providers=0;
 		/**
 		 * @param name
 		 */
@@ -197,6 +212,7 @@ public class BillBoard {
 
 		@Override
 		public boolean findClient(Job temp) {
+			System.out.println(toString()+ " finding Client");
 			for(int i=0;i<100;i++){
 				boolean take = assesClient(Jobs[i],temp);
 				if(take){
@@ -218,7 +234,7 @@ public class BillBoard {
 
 		@Override
 		public void run() {
-			for(int i=0;i<100;i++){
+			for(int i=0;i<10;i++){
 				try {
 					boolean temp =offeringServices();
 					if(temp){
@@ -230,15 +246,19 @@ public class BillBoard {
 					e.printStackTrace();
 				}
 			}
+			System.out.println(toString() + " Total Jobs "+ Providers);
 		}
 
 		@Override
 		public boolean assesClient(Job List,Job Create) {
-			if(Create.getProviderName()==null){
-				String Jname = Create.getClientName();
+			if(List != null && List.getProviderName()==null){
+				String Jname = List.getClientName();
 				String job = Create.getJob();
-				int value = Jname.hashCode()+job.hashCode()+name.hashCode();
-				value = value%100;
+				String LJob = List.getJob();
+				int value = LJob.hashCode()+Jname.hashCode()+job.hashCode()+name.hashCode();
+				//System.out.println(value);
+				value = Math.abs(value%100);
+				//System.out.println(value);
 				return value > 50;
 			} 
 			return false;
@@ -247,12 +267,15 @@ public class BillBoard {
 		@Override
 		public boolean getClient(Job temp) throws InterruptedException {
 			toGet.acquire();
-			get(temp.hashCode(),this);
+			temp = get(temp.hashCode(),this);
+			toPut.release();
 			System.out.println("Getting Client");
 			System.out.println(toString());
+			if(temp!=null){
 			System.out.println(temp.toString());
-			toPut.release();
-			return false;
+			Providers++;
+			}
+			return temp!=null;
 		}
 
 		/* (non-Javadoc)
