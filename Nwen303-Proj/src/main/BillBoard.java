@@ -79,6 +79,7 @@ public class BillBoard {
 			e.printStackTrace();
 		}
 		System.out.println("done!!!");
+		System.exit(0);
 	}
 
 	private synchronized boolean put(Job temp){
