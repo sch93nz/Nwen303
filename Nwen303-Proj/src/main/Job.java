@@ -117,7 +117,7 @@ public class Job {
 	public String toString() {
 		return "Job [" + (clientName != null ? "clientName=" + clientName + ", " : "")
 				+ (providerName != null ? "providerName=" + providerName + ", " : "")
-				+ (Job != null ? "Job=" + Job : "") + "]  at "+System.currentTimeMillis();
+				+ (Job != null ? "Job=" + Job : "") + "]  at "+System.currentTimeMillis()+"\r\n";
 	}
 
 	

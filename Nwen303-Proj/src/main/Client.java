@@ -11,11 +11,11 @@ public interface Client {
 
 	public boolean requireService() throws InterruptedException;
 	
-	public boolean findProvider(Job temp);
+	public int findProvider(Job temp);
 	
 	public void addServices(Job temp) throws InterruptedException;
 	
-	public boolean assesProvider(Job List,Job Create);
+	public int assesProvider(Job List,Job Create);
 	
-	public boolean getProvider(Job temp) throws InterruptedException;
+	public boolean getProvider(int worker) throws InterruptedException;
 }
