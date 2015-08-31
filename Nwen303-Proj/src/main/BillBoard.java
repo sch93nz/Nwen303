@@ -343,6 +343,12 @@ public class BillBoard {
 
 		@Override
 		public int assesClient(Job List,Job Create) {
+			try {
+				Thread.sleep(250);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			if(List != null && List.getProviderName()==null){
 				String Jname = List.getClientName();
 				String job = Create.getJob();
@@ -351,8 +357,15 @@ public class BillBoard {
 				//addBuf(value);
 				value = Math.abs(value%100);
 				//addBuf(value);
-				if(value >50)
+				if(value >50){
+					try {
+						Thread.sleep(250);
+					} catch (InterruptedException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
 					return List.hashCode();
+				}
 			} 
 			return -1;
 		}
