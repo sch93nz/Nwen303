@@ -199,9 +199,9 @@ public class BillBoard {
 				try {
 					boolean temp =requireService();
 					if(temp){
-						Thread.sleep(500);
+						Thread.sleep(1000);
 					}
-					Thread.sleep(250);
+					Thread.sleep(2000);
 				} catch (InterruptedException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
@@ -212,6 +212,12 @@ public class BillBoard {
 
 		@Override
 		public int assesProvider(Job List,Job Create) {
+			try {
+				Thread.sleep(250);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			if(List!=null && List.getClientName()==null){
 				String Lname = List.getProviderName();
 				String job = Create.getJob();
@@ -220,9 +226,15 @@ public class BillBoard {
 				//addBuf(value);
 				value = Math.abs(value%100);
 				//addBuf(value);
-				if(value >50)
+				if(value >50){
+					try {
+						Thread.sleep(250);
+					} catch (InterruptedException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
 					return List.hashCode();
-				
+				}
 			}
 			return -1;
 		}
