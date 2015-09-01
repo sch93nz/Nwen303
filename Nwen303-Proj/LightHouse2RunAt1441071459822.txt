@@ -1,0 +1,2227 @@
+1441071459824
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071460862
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071460862
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071460862
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071460862
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071460868
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071460868
+finding Client
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071460869
+finding Provider
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071460869
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071460870
+finding Provider
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071460870
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071460871
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071460872
+finding Client
+Add Services
+Adding Offer
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071485869
+Adding Offer
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071485869
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071485869
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071485869
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=b6437ba1-32d4-4cdb-b7fa-70315ce137fd]  at 1441071485869
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=29842805-1604-406f-8f8b-ba69d4f7e8ee]  at 1441071485869
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=279bc384-e254-41e2-83bc-7d698c4e7fd7]  at 1441071485869
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=24c2c7a1-fc43-421f-96cc-2ddd414c4e07]  at 1441071485869
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071485873
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=b3380e29-ac75-47e1-b903-2c6657d06d1a]  at 1441071485873
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071485873
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=b9431028-9ab9-4889-90a3-35d5472850c5]  at 1441071485874
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071485874
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=9dacc87d-ad00-48ba-b709-7a6884154329]  at 1441071485874
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071485875
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=3f08053c-9a53-4f46-894e-ac7f28d88c19]  at 1441071485875
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071485875
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=70568550-5e6e-4c71-9415-fdfbdfce485e]  at 1441071485875
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071485876
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=b71c2486-0d20-496c-9b22-4eba84e0937b]  at 1441071485876
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071485876
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=ee390ee3-1836-4039-96f5-037f858376a0]  at 1441071485877
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071485877
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=0b61b7ec-3fef-46ca-bb84-1afde21f920f]  at 1441071485877
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071486120
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071486120
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071486124
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071486125
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071486126
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071486127
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071486622
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=24c2c7a1-fc43-421f-96cc-2ddd414c4e07]  at 1441071486622
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071487122
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=b6437ba1-32d4-4cdb-b7fa-70315ce137fd]  at 1441071487122
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071487124
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071487128
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071487373
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071487375
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071487378
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071487626
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=b3380e29-ac75-47e1-b903-2c6657d06d1a]  at 1441071487626
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071487627
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071487870
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071487870
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071487872
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071487874
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071487875
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071487876
+finding Provider
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071487877
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071487877
+finding Provider
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071488377
+finding Client
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071488621
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=29842805-1604-406f-8f8b-ba69d4f7e8ee]  at 1441071488621
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071488624
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071488626
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071488627
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071489121
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=279bc384-e254-41e2-83bc-7d698c4e7fd7]  at 1441071489121
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071489125
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071489373
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=9dacc87d-ad00-48ba-b709-7a6884154329]  at 1441071489374
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071489875
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=70568550-5e6e-4c71-9415-fdfbdfce485e]  at 1441071489876
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071489879
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071490124
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071490129
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071490624
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071490626
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071490627
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071490628
+finding Provider
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071490874
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=ee390ee3-1836-4039-96f5-037f858376a0]  at 1441071490874
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071491126
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071491621
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071491625
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071492122
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071492377
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=b9431028-9ab9-4889-90a3-35d5472850c5]  at 1441071492378
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071492875
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=3f08053c-9a53-4f46-894e-ac7f28d88c19]  at 1441071492876
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071494873
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=b71c2486-0d20-496c-9b22-4eba84e0937b]  at 1441071494873
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071495378
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071495876
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071497874
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071498629
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=0b61b7ec-3fef-46ca-bb84-1afde21f920f]  at 1441071498630
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071501630
+finding Provider
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071513133
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071513382
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=4fcfbcd8-4b8b-4d6d-8e0a-03b871b3914e]  at 1441071513382
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071513633
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071515130
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=8ca4bc3a-a2b8-4ff2-8866-48e62c85e8cf]  at 1441071515130
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071515380
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071515385
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071515631
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=832090fe-eb74-40a7-9907-def9600381ec]  at 1441071515632
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071515882
+finding Client
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071516132
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=efa24c56-8c0e-41a2-8344-a2ade5d2006b]  at 1441071516132
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071516627
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=ac26abb9-effc-484d-82e7-5182582d8a65]  at 1441071516627
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071516630
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=4fa40775-321b-4568-a88c-c7ea5117e9a5]  at 1441071516631
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071516635
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=efa24c56-8c0e-41a2-8344-a2ade5d2006b]  at 1441071516635
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071516881
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071517383
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=ac26abb9-effc-484d-82e7-5182582d8a65]  at 1441071517383
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071517386
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071517633
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071518132
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071518133
+finding Client
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071518134
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=4fcfbcd8-4b8b-4d6d-8e0a-03b871b3914e]  at 1441071518134
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071518628
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071519883
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=4fa40775-321b-4568-a88c-c7ea5117e9a5]  at 1441071519883
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071520882
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=34e21853-ea26-4bd4-96cb-9dff62f93362]  at 1441071520882
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071521135
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071521885
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=8ca4bc3a-a2b8-4ff2-8866-48e62c85e8cf]  at 1441071521885
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071522880
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=08b5205c-4515-4955-904b-7565ada56183]  at 1441071522880
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071522882
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071522884
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071523885
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=832090fe-eb74-40a7-9907-def9600381ec]  at 1441071523885
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071524880
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071524886
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071526636
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=3697cc5a-8398-4a5e-8302-94190079f5c9]  at 1441071526636
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071526885
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071528636
+finding Provider
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071538138
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=938dfc66-e94d-420d-9ee1-60f6f6b60bc3]  at 1441071538138
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071538388
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071538638
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=8fe9d2ff-bdf9-4c89-b00f-e01825cff283]  at 1441071538638
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071538889
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071539139
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=08b5205c-4515-4955-904b-7565ada56183]  at 1441071539139
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071539889
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=3697cc5a-8398-4a5e-8302-94190079f5c9]  at 1441071539889
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071539890
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071540636
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071540640
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071542136
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071542391
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=5d97ad6c-5a20-4be2-9069-a4b1ae214cd7]  at 1441071542392
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071542637
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=34e21853-ea26-4bd4-96cb-9dff62f93362]  at 1441071542637
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071542642
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071543138
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=8ce98ee9-1253-4151-bc52-74a38f881196]  at 1441071543139
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071543387
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071543389
+finding Client
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071543634
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=4d85546e-3ff0-40ab-bfb5-ab5000abae5e]  at 1441071543634
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071544388
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=4d85546e-3ff0-40ab-bfb5-ab5000abae5e]  at 1441071544388
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071544389
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071544640
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071545139
+finding Client
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071545634
+finding Provider
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071546885
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=938dfc66-e94d-420d-9ee1-60f6f6b60bc3]  at 1441071546885
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071549886
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071549887
+finding Provider
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071549891
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=ec9d47b8-1e59-4cc1-b9e9-3fbf63bebd64]  at 1441071549891
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071550386
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=8ce98ee9-1253-4151-bc52-74a38f881196]  at 1441071550387
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071551886
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071551891
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=150368de-1f62-4207-a1f4-e8a924018bde]  at 1441071551891
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071551891
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071553387
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=8fe9d2ff-bdf9-4c89-b00f-e01825cff283]  at 1441071553387
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071553387
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071553392
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071553891
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071554642
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=5d97ad6c-5a20-4be2-9069-a4b1ae214cd7]  at 1441071554642
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071555392
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071555642
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071556388
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071557643
+finding Provider
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071564895
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=eccb5d42-f95d-4da4-8eb4-11f9f7a02195]  at 1441071564895
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071565146
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071565641
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f19329ba-56d2-48d1-9917-dca0355efe5e]  at 1441071565641
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071565645
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=8e683115-f30f-4ac9-8304-9312c9e15b12]  at 1441071565645
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071565646
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=150368de-1f62-4207-a1f4-e8a924018bde]  at 1441071565646
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071565892
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071565896
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071566397
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071567897
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071569895
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071570144
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=b000196a-2365-4d1e-bd0f-f5709f7b0bf0]  at 1441071570145
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071570395
+finding Client
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071574893
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=c6f118d4-e158-4a63-9ab4-2d3379682da5]  at 1441071574893
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071576893
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071577644
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=eccb5d42-f95d-4da4-8eb4-11f9f7a02195]  at 1441071577644
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071578393
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=d07053a2-9fa9-4813-a007-bb9b61153d14]  at 1441071578393
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071580393
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071580645
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071580647
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=449c1a13-bdf9-4fc0-82d7-230279593a56]  at 1441071580647
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071581145
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=b000196a-2365-4d1e-bd0f-f5709f7b0bf0]  at 1441071581145
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071581394
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=0ba50d06-87ff-4365-a5ea-cb113e04f9f0]  at 1441071581394
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071581644
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f19329ba-56d2-48d1-9917-dca0355efe5e]  at 1441071581644
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071582398
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071582648
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071582648
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=e1961c6b-3e72-480c-9b53-6d62007ec2a7]  at 1441071582648
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071583394
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071584146
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071584148
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=8e683115-f30f-4ac9-8304-9312c9e15b12]  at 1441071584148
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071584645
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071584648
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071587149
+finding Provider
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071590901
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=c5e7267f-f4eb-4b5f-97a1-9398e126c0f3]  at 1441071590901
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071591147
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071591152
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071591402
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=aac4d9c1-17f5-49f5-bf32-72ed4f1ef90c]  at 1441071591402
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071591648
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=0ba50d06-87ff-4365-a5ea-cb113e04f9f0]  at 1441071591648
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071591653
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071591902
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=d07053a2-9fa9-4813-a007-bb9b61153d14]  at 1441071591902
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071592398
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071592653
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071592903
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=7d0b818c-6f24-402d-8190-aaf255059d7e]  at 1441071592903
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071592903
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=e1961c6b-3e72-480c-9b53-6d62007ec2a7]  at 1441071592903
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071593153
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071593653
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=ec9d47b8-1e59-4cc1-b9e9-3fbf63bebd64]  at 1441071593653
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071593654
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071594404
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071594900
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=2bba7568-71a8-4260-a6bc-06a4dfbcf80d]  at 1441071594901
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071595151
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071595154
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=449c1a13-bdf9-4fc0-82d7-230279593a56]  at 1441071595154
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071595405
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c6f118d4-e158-4a63-9ab4-2d3379682da5]  at 1441071595405
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071595650
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071595904
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071596155
+finding Client
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071609151
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=9daabda3-3d5d-489e-b88a-a2d5cbab5411]  at 1441071609151
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071609403
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071609650
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=e43728f3-1717-4658-b8b0-36c9453ee284]  at 1441071609650
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071609654
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=b13dc0bd-72b5-4bb7-b7f8-2d7f4fbce332]  at 1441071609654
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071609903
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=7d0b818c-6f24-402d-8190-aaf255059d7e]  at 1441071609904
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071610400
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071611151
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=2bba7568-71a8-4260-a6bc-06a4dfbcf80d]  at 1441071611151
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071611152
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071611651
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071611654
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071612154
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=8459eb39-9360-4f6b-8121-8edbbaded040]  at 1441071612155
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071612904
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071613403
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=aac4d9c1-17f5-49f5-bf32-72ed4f1ef90c]  at 1441071613403
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071614152
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071614155
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071614405
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=c5e7267f-f4eb-4b5f-97a1-9398e126c0f3]  at 1441071614405
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071616404
+finding Provider
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071617404
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=2c1cdd57-b9dd-4814-b4af-925ec7e11d5d]  at 1441071617404
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071617406
+finding Provider
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071617654
+finding Client
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071618156
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=2c1cdd57-b9dd-4814-b4af-925ec7e11d5d]  at 1441071618156
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071618905
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=e43728f3-1717-4658-b8b0-36c9453ee284]  at 1441071618905
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071619409
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=f4f1ea5e-f9cc-4280-b387-a6e3739d1a8f]  at 1441071619410
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071619655
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071619660
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071620156
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=8459eb39-9360-4f6b-8121-8edbbaded040]  at 1441071620156
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071620160
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071620406
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071620410
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071620656
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=20a95892-3588-44c0-a3e3-ff6283e4f534]  at 1441071620656
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071620906
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071620907
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071620910
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=f979c218-fd8f-4cbe-a4fa-556c6c7805a9]  at 1441071620910
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071621157
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071621160
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071621161
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=19898254-d492-4b69-92e6-ea2c1ddb1439]  at 1441071621161
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071621411
+finding Client
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071621657
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=20a95892-3588-44c0-a3e3-ff6283e4f534]  at 1441071621657
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071621907
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=9daabda3-3d5d-489e-b88a-a2d5cbab5411]  at 1441071621907
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071622157
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=b13dc0bd-72b5-4bb7-b7f8-2d7f4fbce332]  at 1441071622157
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071622161
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071622411
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071622658
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071622908
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071624658
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071625909
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=f979c218-fd8f-4cbe-a4fa-556c6c7805a9]  at 1441071625909
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071628910
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071630410
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=19898254-d492-4b69-92e6-ea2c1ddb1439]  at 1441071630410
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071633411
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071636657
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=5501f1c8-dd28-43cd-956d-f4b0a30c38b9]  at 1441071636657
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071636660
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=ba6c0e9a-8916-4d9c-87b8-ba45a2f5a153]  at 1441071636660
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071638658
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071638660
+finding Provider
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071639158
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=ae75f7e0-cded-4c0e-834f-acbea43e8b02]  at 1441071639158
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071639160
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=f139d5f7-23be-42f7-ab7a-a0e5f90b62bb]  at 1441071639160
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071641158
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071641161
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071641409
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=38c4405f-250e-460e-9891-c1765c9cfad0]  at 1441071641409
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071643410
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071644160
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=f4f1ea5e-f9cc-4280-b387-a6e3739d1a8f]  at 1441071644160
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071646162
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071646165
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=e6f252f0-6ef4-440d-9374-86899a231d70]  at 1441071646165
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071646416
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071646416
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=74dba01f-2574-4be3-ae47-41d040aa97c4]  at 1441071646417
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071646662
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=5501f1c8-dd28-43cd-956d-f4b0a30c38b9]  at 1441071646663
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071646667
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071647161
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071647413
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071647416
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=ba6c0e9a-8916-4d9c-87b8-ba45a2f5a153]  at 1441071647417
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071647663
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=e67623cb-d744-4198-b139-4a52459746cc]  at 1441071647663
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071647667
+finding Client
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071647911
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=e6f252f0-6ef4-440d-9374-86899a231d70]  at 1441071647912
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071647913
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6673be03-a645-406a-a828-863a6e709057]  at 1441071647913
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071647913
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071647918
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=ae75f7e0-cded-4c0e-834f-acbea43e8b02]  at 1441071647918
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071648163
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071648167
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071648668
+finding Client
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071648914
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=f139d5f7-23be-42f7-ab7a-a0e5f90b62bb]  at 1441071648914
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071649418
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=38c4405f-250e-460e-9891-c1765c9cfad0]  at 1441071649418
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071649664
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071650168
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071650912
+finding Provider
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071658417
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=29268869-67d7-433d-b87e-8efbcbb700db]  at 1441071658417
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071660417
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071663663
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=4c71b7dd-373c-433a-adc7-3178206849b0]  at 1441071663664
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071663666
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=176441b6-b1e7-4eb0-b7a6-8755eb0bcaeb]  at 1441071663666
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071665664
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071665666
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071666166
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=7fd1d0d3-0f42-419b-98a2-1a76204a81ee]  at 1441071666166
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071666167
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=e67623cb-d744-4198-b139-4a52459746cc]  at 1441071666167
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071668164
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071668167
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071668917
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6673be03-a645-406a-a828-863a6e709057]  at 1441071668917
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071669167
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071670165
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=74dba01f-2574-4be3-ae47-41d040aa97c4]  at 1441071670166
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071671918
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071673166
+finding Provider
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071673169
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071673172
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=953a7b1d-6eed-4cda-8d21-44f6de4a2f09]  at 1441071673172
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071673419
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071673423
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071673673
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=2ff509c6-c119-4853-85d0-a50336f1a7a1]  at 1441071673674
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071673924
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071674169
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=29268869-67d7-433d-b87e-8efbcbb700db]  at 1441071674169
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071674419
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071674669
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071674670
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=66766a9d-4569-4128-9e35-9608594af718]  at 1441071674670
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071674673
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=4c71b7dd-373c-433a-adc7-3178206849b0]  at 1441071674673
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071674920
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071674920
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071675174
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=2a01dbba-d693-4fc7-a7fd-9e9b9d3d159e]  at 1441071675174
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071675424
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071675424
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071675425
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=176441b6-b1e7-4eb0-b7a6-8755eb0bcaeb]  at 1441071675425
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071675917
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=468ed159-4d05-4996-a0b3-2ad6108a5835]  at 1441071675918
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071676175
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071676420
+Getting Client
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=468ed159-4d05-4996-a0b3-2ad6108a5835]  at 1441071676421
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071676421
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071676671
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071677171
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071677174
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071677175
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=7fd1d0d3-0f42-419b-98a2-1a76204a81ee]  at 1441071677175
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071677425
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071677918
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071677925
+finding Client
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071678419
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=953a7b1d-6eed-4cda-8d21-44f6de4a2f09]  at 1441071678419
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071681419
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071682420
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=66766a9d-4569-4128-9e35-9608594af718]  at 1441071682420
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071685421
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071686672
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=2a01dbba-d693-4fc7-a7fd-9e9b9d3d159e]  at 1441071686672
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071687423
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071688173
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=2ff509c6-c119-4853-85d0-a50336f1a7a1]  at 1441071688174
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071689672
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071690670
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=5b605249-4962-43dd-a812-07ed7f95daee]  at 1441071690670
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071691174
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071692671
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071694173
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=b19a52f2-208d-46ef-b1d1-f497ae76461a]  at 1441071694173
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071696174
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071696923
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=334a9c3b-2717-4b57-9b83-1530792d716e]  at 1441071696923
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071698172
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=ecf498cc-26c1-415a-bdc4-9f6a6fa0c4c3]  at 1441071698172
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071698924
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071699925
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071700173
+finding Provider
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071700425
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=5b605249-4962-43dd-a812-07ed7f95daee]  at 1441071700425
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071701176
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071701180
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c5d6fb50-0511-44e0-8530-5a7aeea4df20]  at 1441071701181
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071701431
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071701926
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=b19a52f2-208d-46ef-b1d1-f497ae76461a]  at 1441071701927
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071701928
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071702177
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=3dd89e32-3077-454b-92ff-9aac2e8081dd]  at 1441071702177
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071702428
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071702431
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=334a9c3b-2717-4b57-9b83-1530792d716e]  at 1441071702432
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071702677
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071702680
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071702930
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=1e995215-c7e3-4d63-b43a-5c76fbbf52ba]  at 1441071702930
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071703181
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071703182
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071703678
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=ecf498cc-26c1-415a-bdc4-9f6a6fa0c4c3]  at 1441071703678
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071704429
+finding Client
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071714678
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=66540f9d-e003-4264-bef5-bdcfd96f97f7]  at 1441071714678
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071716180
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=cd93c216-6f46-485b-9bf3-d27a3ac6f7cd]  at 1441071716180
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071716678
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071717677
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=223fc21c-e3b2-4107-a433-faa662933a5c]  at 1441071717677
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071717679
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=1e995215-c7e3-4d63-b43a-5c76fbbf52ba]  at 1441071717679
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071718180
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071718681
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c5d6fb50-0511-44e0-8530-5a7aeea4df20]  at 1441071718681
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071719677
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071720680
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071721179
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=c77d8557-4d30-4b64-8268-ef5651cb1835]  at 1441071721179
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071721681
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071723180
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071723929
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=018a60b9-bc37-4c86-bf64-8697d341d1a4]  at 1441071723929
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071725930
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071726681
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=3dd89e32-3077-454b-92ff-9aac2e8081dd]  at 1441071726681
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071726933
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=f5b5f66a-ccb3-4fa7-b30b-7439494274e7]  at 1441071726933
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071727179
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071727183
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071727682
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=184e09dd-0be9-4420-9b3f-c4946dc76c21]  at 1441071727682
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071727685
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=80d9424d-a07e-4284-8df7-53e7f9e44023]  at 1441071727685
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071727929
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=f5b5f66a-ccb3-4fa7-b30b-7439494274e7]  at 1441071727929
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071727933
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071727936
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071728186
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=f9413c68-8895-4197-b727-c9b9ba844ab0]  at 1441071728186
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071728187
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=fc23b207-aae0-42a8-a038-e2b20ff94754]  at 1441071728187
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071728433
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=c77d8557-4d30-4b64-8268-ef5651cb1835]  at 1441071728433
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071728434
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=66540f9d-e003-4264-bef5-bdcfd96f97f7]  at 1441071728434
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071728436
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071728438
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071728936
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=018a60b9-bc37-4c86-bf64-8697d341d1a4]  at 1441071728936
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071729184
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071729184
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071729434
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f0493045-eee9-40f8-a7f8-869da495c2af]  at 1441071729434
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071729681
+finding Provider
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071729685
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071729687
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071730187
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=223fc21c-e3b2-4107-a433-faa662933a5c]  at 1441071730187
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071730188
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071730439
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071730930
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071730938
+finding Client
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071731430
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f0493045-eee9-40f8-a7f8-869da495c2af]  at 1441071731431
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071731682
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=184e09dd-0be9-4420-9b3f-c4946dc76c21]  at 1441071731682
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071734431
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071734683
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071735182
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=f9413c68-8895-4197-b727-c9b9ba844ab0]  at 1441071735182
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071738183
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071744683
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=bf80bff5-b81d-4fa6-954f-e8edfcd9da5a]  at 1441071744683
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071745685
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=13f02b2c-03b0-44f2-a0aa-abd212bdc743]  at 1441071745685
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071746684
+finding Provider
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071746686
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=5e77925f-de46-4f23-a67b-4a5cb14932f7]  at 1441071746687
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071747686
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071748185
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=307792d8-96f8-4aa4-aa14-e7b3b73fa514]  at 1441071748185
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071748687
+finding Provider
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071748935
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=80d9424d-a07e-4284-8df7-53e7f9e44023]  at 1441071748935
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071750186
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071751188
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=fc23b207-aae0-42a8-a038-e2b20ff94754]  at 1441071751188
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071751936
+finding Provider
+Adding Offer
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071754189
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071754189
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=156da741-b93f-45ac-a232-3b2f18f877b2]  at 1441071754189
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071754190
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=0abaad53-3891-443d-b91a-5d64d20f1e48]  at 1441071754190
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071754439
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071754440
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071754690
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=53eb2911-7bea-481d-80c4-5ba302768b9b]  at 1441071754690
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071754692
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=2ab2e515-8878-4418-ba57-a9c992b7ccce]  at 1441071754692
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071754940
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=bf80bff5-b81d-4fa6-954f-e8edfcd9da5a]  at 1441071754940
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071754940
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071754940
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071754942
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071755191
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071755690
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071755693
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=13f02b2c-03b0-44f2-a0aa-abd212bdc743]  at 1441071755693
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071755694
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071755943
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=6fa539c0-59cc-43c2-a492-c186abf03231]  at 1441071755943
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071756189
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=0abaad53-3891-443d-b91a-5d64d20f1e48]  at 1441071756190
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071756191
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=307792d8-96f8-4aa4-aa14-e7b3b73fa514]  at 1441071756191
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071756193
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071756443
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071756691
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=5e77925f-de46-4f23-a67b-4a5cb14932f7]  at 1441071756691
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071756942
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071757441
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071757694
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=cd93c216-6f46-485b-9bf3-d27a3ac6f7cd]  at 1441071757694
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071758445
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071759190
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071759688
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=195639f1-14fd-4636-b2c7-989a2181e2f4]  at 1441071759688
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071759691
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=6fa539c0-59cc-43c2-a492-c186abf03231]  at 1441071759691
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071761688
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071762691
+finding Provider
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071763188
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=09587d2f-abd2-410d-adb6-289be26ccf1c]  at 1441071763189
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071764442
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=156da741-b93f-45ac-a232-3b2f18f877b2]  at 1441071764442
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071765189
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071767440
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=53eb2911-7bea-481d-80c4-5ba302768b9b]  at 1441071767440
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071767443
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071769944
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=2ab2e515-8878-4418-ba57-a9c992b7ccce]  at 1441071769944
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071770440
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071772691
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=9f921bfe-66a5-4e91-9151-433b92f04faa]  at 1441071772691
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071772944
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071774692
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071775191
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=c06a3f01-af80-4f2e-b37e-001c69e448b1]  at 1441071775191
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071776941
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=051ebe88-7a7d-4556-b74e-b8cd95a73e31]  at 1441071776942
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071777192
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071778942
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071780446
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071780699
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c7502b2c-2f15-4611-9761-168cdbea54cd]  at 1441071780699
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071780949
+finding Client
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071781197
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=195639f1-14fd-4636-b2c7-989a2181e2f4]  at 1441071781197
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071781448
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=654a6f6f-6b79-4c90-8938-b8697e7b4fe5]  at 1441071781448
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071781699
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071781947
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=e9dbae97-7f41-4b4e-bb9d-8c36c16aa517]  at 1441071781947
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071781947
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071782197
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071782200
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c06a3f01-af80-4f2e-b37e-001c69e448b1]  at 1441071782200
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071782447
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6702955d-1c92-45d5-ab76-7737e91cff5c]  at 1441071782447
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071782448
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=09587d2f-abd2-410d-adb6-289be26ccf1c]  at 1441071782448
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071782697
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071782697
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071782699
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=9f921bfe-66a5-4e91-9151-433b92f04faa]  at 1441071782699
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071782948
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071782950
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071783198
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071783450
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071783450
+finding Client
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=3adecceb-5337-40fd-afb0-adeb33be5201]  at 1441071783450
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071783700
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071784198
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=051ebe88-7a7d-4556-b74e-b8cd95a73e31]  at 1441071784198
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071784948
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071788694
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071789195
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=3adecceb-5337-40fd-afb0-adeb33be5201]  at 1441071789195
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071792195
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071794196
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=e9dbae97-7f41-4b4e-bb9d-8c36c16aa517]  at 1441071794196
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071795446
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=28c3c527-c9b4-43fb-8ef6-9fac5d3e888e]  at 1441071795446
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071797197
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071797446
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071797947
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=654a6f6f-6b79-4c90-8938-b8697e7b4fe5]  at 1441071797948
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071797949
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=413304b8-2f67-469d-acc8-8e01dff44d0b]  at 1441071797950
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071799197
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c7502b2c-2f15-4611-9761-168cdbea54cd]  at 1441071799197
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071799697
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=f59c19a5-09ca-429e-a647-bab4f75af0a2]  at 1441071799697
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071799950
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071800948
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071801200
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6702955d-1c92-45d5-ab76-7737e91cff5c]  at 1441071801201
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071801697
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071802197
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=cdd6262c-1b09-4157-84cc-581e5bca24d3]  at 1441071802197
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071802199
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071803948
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=958e0987-d3d3-49e4-9c7e-517ab1a30ea7]  at 1441071803948
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071804198
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071804201
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071805948
+finding Provider
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071807955
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=a4ecf253-55d9-4d28-a34b-a0b8ca67a895]  at 1441071807956
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071808203
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071808203
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=91f31054-9d12-42cd-a335-c7bbf0b2d653]  at 1441071808204
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071808206
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071808454
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071808455
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=fc1382e7-ace2-4869-91da-a4bf958613ef]  at 1441071808455
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071808703
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=28c3c527-c9b4-43fb-8ef6-9fac5d3e888e]  at 1441071808704
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071808705
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071808705
+finding Client
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=681ad48c-2bc7-4a75-b30a-1c3f3178b201]  at 1441071808705
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071808956
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071808956
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=413304b8-2f67-469d-acc8-8e01dff44d0b]  at 1441071808956
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071809204
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071809454
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071809454
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071809707
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071809953
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=7a1d6c12-d8f9-4686-ac33-ad5c79842d78]  at 1441071809953
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071809956
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=f59c19a5-09ca-429e-a647-bab4f75af0a2]  at 1441071809956
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071810204
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071810704
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=cdd6262c-1b09-4157-84cc-581e5bca24d3]  at 1441071810705
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071810706
+finding Client
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071810955
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=958e0987-d3d3-49e4-9c7e-517ab1a30ea7]  at 1441071810955
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071811455
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071811705
+finding Client
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071825954
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=b000b7a2-acba-47ba-82df-5cdfc75dad58]  at 1441071825954
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071826703
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=bde1a057-cc6f-49fa-ae07-f0c579d9ffc9]  at 1441071826703
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071827205
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=88186ac9-b197-4ee2-a3c6-d662bcbbf246]  at 1441071827205
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071827954
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071828704
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071828704
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=7a1d6c12-d8f9-4686-ac33-ad5c79842d78]  at 1441071828704
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071829204
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=e5b7ae54-0862-471b-b22b-444c7df44a39]  at 1441071829204
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071829204
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=681ad48c-2bc7-4a75-b30a-1c3f3178b201]  at 1441071829204
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071829205
+finding Provider
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071829206
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=38df96d5-cb77-43c3-811d-460cc2f21110]  at 1441071829207
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071830954
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=c270fa03-1454-48ec-a652-d4256fbf0792]  at 1441071830954
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071831204
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071831206
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=91f31054-9d12-42cd-a335-c7bbf0b2d653]  at 1441071831206
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071831207
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071831705
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071832205
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071832955
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071832955
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=a4ecf253-55d9-4d28-a34b-a0b8ca67a895]  at 1441071832955
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071832957
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071833710
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=ee1d0fbe-08bf-4eba-a7c3-cff691f59b09]  at 1441071833711
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071833956
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=fc1382e7-ace2-4869-91da-a4bf958613ef]  at 1441071833956
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071833961
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071834207
+finding Provider
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071834461
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=38df96d5-cb77-43c3-811d-460cc2f21110]  at 1441071834461
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071834712
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=678ece77-29c3-4251-82ab-91e9bc2754a9]  at 1441071834712
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071834958
+finding Provider
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071834962
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071835209
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=904ada33-5b33-4fcb-8b84-e5fce77527f3]  at 1441071835209
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071835212
+finding Client
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071835458
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=678ece77-29c3-4251-82ab-91e9bc2754a9]  at 1441071835458
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071835459
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071835712
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=20ecac3d-0219-4fa3-bac7-c05b0331f34c]  at 1441071835712
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071835713
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=e5b7ae54-0862-471b-b22b-444c7df44a39]  at 1441071835713
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071835956
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071835962
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071835962
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071836207
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=904ada33-5b33-4fcb-8b84-e5fce77527f3]  at 1441071836207
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071836212
+finding Client
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071836456
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=20ecac3d-0219-4fa3-bac7-c05b0331f34c]  at 1441071836456
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071836460
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=d0f63251-ca48-44d2-8e8d-e9a95a9f17b7]  at 1441071836460
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071836463
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071836710
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=bde1a057-cc6f-49fa-ae07-f0c579d9ffc9]  at 1441071836710
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071836710
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071836711
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=1ad0e12f-420d-4bed-8d82-630e7f105dc7]  at 1441071836711
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071836956
+finding Provider
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071836961
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071836962
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=b000b7a2-acba-47ba-82df-5cdfc75dad58]  at 1441071836963
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071837457
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=d0f63251-ca48-44d2-8e8d-e9a95a9f17b7]  at 1441071837457
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071837460
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071837713
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071838459
+finding Provider
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071838964
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=c270fa03-1454-48ec-a652-d4256fbf0792]  at 1441071838964
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071839208
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071839209
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=1ad0e12f-420d-4bed-8d82-630e7f105dc7]  at 1441071839209
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071839213
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=88186ac9-b197-4ee2-a3c6-d662bcbbf246]  at 1441071839213
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071839457
+finding Provider
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071839714
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071839964
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071840457
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071842210
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071843961
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=ee1d0fbe-08bf-4eba-a7c3-cff691f59b09]  at 1441071843961
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071846961
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071857211
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=d994643a-a5e7-4ee4-b6fc-133cc835927b]  at 1441071857211
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071857961
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=7913a88c-1b8e-42d0-b4a9-fb453ea5f712]  at 1441071857961
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071859211
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071859961
+finding Provider
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071861468
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071861966
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071861966
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=e80ebc2c-3c81-4cc7-8187-a61fe1572a88]  at 1441071861966
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071861968
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=d994643a-a5e7-4ee4-b6fc-133cc835927b]  at 1441071861968
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071862217
+finding Client
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071862465
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6afcc063-41b4-4d7b-8c8b-63826d1ed278]  at 1441071862466
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071862716
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071862718
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071863469
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=7913a88c-1b8e-42d0-b4a9-fb453ea5f712]  at 1441071863469
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071864214
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=d985e545-7869-44e5-b932-72741a310e45]  at 1441071864214
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071864220
+finding Client
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071864462
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=36a4b608-0120-4850-a0c6-1990bd7ae731]  at 1441071864462
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071864719
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=54693d4b-72c9-49a5-a5fc-c445890d03df]  at 1441071864719
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071864969
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=b9cd0cf9-46ba-4ed4-9698-355f76712103]  at 1441071864969
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071864970
+finding Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071865219
+finding Client
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071865462
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=3c84cfde-56b1-4111-afb4-1894de1dd389]  at 1441071865463
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071865470
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=36a4b608-0120-4850-a0c6-1990bd7ae731]  at 1441071865470
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071866214
+finding Provider
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071866220
+finding Client
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071866463
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071866963
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=6afcc063-41b4-4d7b-8c8b-63826d1ed278]  at 1441071866963
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071867220
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=3c84cfde-56b1-4111-afb4-1894de1dd389]  at 1441071867220
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071867463
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071867715
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=54693d4b-72c9-49a5-a5fc-c445890d03df]  at 1441071867715
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071867971
+finding Client
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071868463
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=e80ebc2c-3c81-4cc7-8187-a61fe1572a88]  at 1441071868464
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071868721
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=d985e545-7869-44e5-b932-72741a310e45]  at 1441071868721
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071869472
+finding Client
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071869963
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071870715
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071871464
+finding Provider
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071871714
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=b9cd0cf9-46ba-4ed4-9698-355f76712103]  at 1441071871714
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071871967
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=0613f65a-a00b-4770-ad78-4ff1399c8c89]  at 1441071871967
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071873967
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071874715
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071884217
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=a55e1d05-fa4c-403c-a1b3-fa56c14928c2]  at 1441071884217
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071884967
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=c25f5f30-94fc-4193-97e0-8c3adc9e67aa]  at 1441071884967
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071886217
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071886967
+finding Provider
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071886971
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=2cf2aa0d-8aa1-4561-a257-d2af67fd9b28]  at 1441071886971
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071887221
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071887222
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=70962b67-6691-40a9-ab72-88eba2990c92]  at 1441071887222
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071887472
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071887721
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=0613f65a-a00b-4770-ad78-4ff1399c8c89]  at 1441071887721
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071887971
+finding Client
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071888218
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=2cf2aa0d-8aa1-4561-a257-d2af67fd9b28]  at 1441071888218
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071888223
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=a55e1d05-fa4c-403c-a1b3-fa56c14928c2]  at 1441071888223
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071888472
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071888973
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071889472
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=c25f5f30-94fc-4193-97e0-8c3adc9e67aa]  at 1441071889472
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071890223
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071890225
+finding Client
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071891218
+finding Provider
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071891226
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=87cfa72e-dd43-4db7-b8a9-eba3991bb2be]  at 1441071891226
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071891476
+finding Client
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071892719
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=70962b67-6691-40a9-ab72-88eba2990c92]  at 1441071892719
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071894477
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=549dbd38-811f-42a9-af10-6f6e0b121c83]  at 1441071894477
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071894727
+finding Client
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071895720
+finding Provider
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071895721
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=0074dded-6d2f-42bd-8e23-22341d49008c]  at 1441071895721
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071896470
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=1be870df-f22d-4062-9941-c7ece651bc4f]  at 1441071896470
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071896470
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=549dbd38-811f-42a9-af10-6f6e0b121c83]  at 1441071896470
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071897721
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071898470
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071899471
+finding Provider
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071899720
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=2f93c419-8a4b-4324-aba2-dc39d0f6265f]  at 1441071899720
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071899971
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=87cfa72e-dd43-4db7-b8a9-eba3991bb2be]  at 1441071899971
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071900972
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071901721
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071902972
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071911223
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=07685f10-e817-4a34-974b-396f88cb5291]  at 1441071911223
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071912976
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=fdbe57e6-5865-4c4e-8843-958d5dee9bcd]  at 1441071912976
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071913224
+finding Provider
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071913226
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071913978
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=5166c5d5-7cea-409d-ae9e-5f5b6f331fc9]  at 1441071913978
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071914229
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071914477
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=1be870df-f22d-4062-9941-c7ece651bc4f]  at 1441071914477
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071914724
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=fdbe57e6-5865-4c4e-8843-958d5dee9bcd]  at 1441071914724
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071914729
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=07685f10-e817-4a34-974b-396f88cb5291]  at 1441071914730
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071915228
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071915228
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f7a8e4d5-4e7e-4491-84dd-e5b561993bc6]  at 1441071915228
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071915230
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=178b6c2a-22d7-4e13-92bf-33177c18fcdd]  at 1441071915230
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071915478
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071915480
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071915480
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071916231
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=2f93c419-8a4b-4324-aba2-dc39d0f6265f]  at 1441071916231
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071916480
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=0074dded-6d2f-42bd-8e23-22341d49008c]  at 1441071916480
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071916731
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071916981
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071917231
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071917725
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071918225
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=f7a8e4d5-4e7e-4491-84dd-e5b561993bc6]  at 1441071918225
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071919733
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=740b1e2b-64e5-4870-a00e-dd48b0b33c62]  at 1441071919733
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071919983
+finding Client
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071921226
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071921726
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=740b1e2b-64e5-4870-a00e-dd48b0b33c62]  at 1441071921726
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071924727
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071924727
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071925476
+finding Provider
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071925977
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=0670e283-dcc9-4a87-9703-a78bc55263ee]  at 1441071925978
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071927977
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=043962b5-2c4e-4065-88f2-7ecaa6d0a5e4]  at 1441071927977
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071927978
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071928727
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071929228
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=178b6c2a-22d7-4e13-92bf-33177c18fcdd]  at 1441071929228
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071929978
+finding Provider
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071931728
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=5166c5d5-7cea-409d-ae9e-5f5b6f331fc9]  at 1441071931728
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071932229
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071934729
+finding Provider
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071940232
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=1a63dbf4-0eef-48eb-83b7-1d881ee4b78c]  at 1441071940232
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071940483
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071940733
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071940983
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=0670e283-dcc9-4a87-9703-a78bc55263ee]  at 1441071940983
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071941733
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071941736
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=cae6418e-ea42-423f-b3ef-290621d3f38f]  at 1441071941736
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071941986
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=62f13278-fab8-446c-84ca-d7193055f8fe]  at 1441071941986
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071941986
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071942236
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=f8432f3c-d17f-4972-99f3-190eb6fa5de4]  at 1441071942236
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071942236
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071942484
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=043962b5-2c4e-4065-88f2-7ecaa6d0a5e4]  at 1441071942484
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071942486
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071943234
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071944988
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=ef1eb875-dd14-48e9-97b6-df24a1827a37]  at 1441071944988
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071945238
+finding Client
+Add Services
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071949732
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071949732
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=732d14f0-2e27-40f1-8011-3059e86f34b8]  at 1441071949732
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=4071b372-231f-4391-9b2b-3a8b242d2bcb]  at 1441071949732
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071950482
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=97ba07a0-3a53-4355-ae13-ef74de1b3365]  at 1441071950482
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071951732
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071951732
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071952482
+finding Provider
+Get Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071952483
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071952483
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=ef1eb875-dd14-48e9-97b6-df24a1827a37]  at 1441071952483
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071953732
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=cb11d841-48ab-49e6-a4ff-f8b33189014f]  at 1441071953732
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071954483
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071955484
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071955733
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071955734
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=62f13278-fab8-446c-84ca-d7193055f8fe]  at 1441071955734
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071956984
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=f8432f3c-d17f-4972-99f3-190eb6fa5de4]  at 1441071956984
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071957234
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=e9b9a94c-c65c-4320-a092-9702581a76b5]  at 1441071957234
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071958735
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071959235
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071959235
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=cae6418e-ea42-423f-b3ef-290621d3f38f]  at 1441071959235
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071959734
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=8ee046ac-b46d-483e-9dba-dc80cca95a70]  at 1441071959734
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071959985
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071960985
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=1a63dbf4-0eef-48eb-83b7-1d881ee4b78c]  at 1441071960985
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071961735
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071962235
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071963986
+finding Provider
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071965738
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=cf32c02d-ac7c-43c7-afbf-c3b611570f5e]  at 1441071965738
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071965988
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071966488
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=8ee046ac-b46d-483e-9dba-dc80cca95a70]  at 1441071966488
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071967239
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071967241
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071967241
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=d966e702-65b7-4f1b-bcba-846dd188955b]  at 1441071967241
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071967491
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=ab44c0ea-fdd9-47fc-8b24-99a31a5fa3fe]  at 1441071967491
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071967491
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071967741
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071967989
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=cb11d841-48ab-49e6-a4ff-f8b33189014f]  at 1441071967989
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071968239
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=fa5dc2eb-3e67-4a1b-8780-702c9c6dd5b5]  at 1441071968239
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071968489
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071968739
+finding Client
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071968742
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=e9b9a94c-c65c-4320-a092-9702581a76b5]  at 1441071968742
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071969241
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=4071b372-231f-4391-9b2b-3a8b242d2bcb]  at 1441071969242
+Getting Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071969491
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=732d14f0-2e27-40f1-8011-3059e86f34b8]  at 1441071969492
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071969492
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071969992
+finding Client
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071970242
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071970243
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=bc0b8b91-e737-47ee-9548-4f55148af79f]  at 1441071970243
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071970493
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071970990
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=97ba07a0-3a53-4355-ae13-ef74de1b3365]  at 1441071970990
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071971741
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071979488
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071979988
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=d966e702-65b7-4f1b-bcba-846dd188955b]  at 1441071979989
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071982739
+finding Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071982989
+finding Provider
+Get Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071983740
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071983740
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=fa5dc2eb-3e67-4a1b-8780-702c9c6dd5b5]  at 1441071983740
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=cf32c02d-ac7c-43c7-afbf-c3b611570f5e]  at 1441071983740
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071984240
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=d30f50a9-ea37-4820-86ab-4159894d339e]  at 1441071984240
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071986241
+finding Provider
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441071986740
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071986740
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071986740
+finding Provider
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=460f98aa-7106-4daf-b3b1-971ae2067d7d]  at 1441071986740
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071987241
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=17a1632c-263d-47d5-b9ca-9ecd0b875955]  at 1441071987241
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071987491
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=bc0b8b91-e737-47ee-9548-4f55148af79f]  at 1441071987491
+Get Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071988241
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=ab44c0ea-fdd9-47fc-8b24-99a31a5fa3fe]  at 1441071988241
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441071988741
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071988991
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=67838ff0-7f68-47da-b3d0-3464b7a3954a]  at 1441071988991
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441071989241
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441071990492
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441071990991
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441071991241
+finding Provider
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071993494
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=71bdb47a-6d3d-457e-914e-60355d93ce63]  at 1441071993494
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071993744
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071994495
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=460f98aa-7106-4daf-b3b1-971ae2067d7d]  at 1441071994495
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071994497
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=2670ff87-188a-4bbd-b8e4-6cb5ef35d346]  at 1441071994497
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071994747
+finding Client
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071994997
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=c40dcdba-ad99-42c3-87be-87fefba4d5cd]  at 1441071994997
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071995245
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441071995247
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071995247
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=80631323-0af1-42a6-8fb1-a6e9d1c5e909]  at 1441071995247
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071995248
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=d30f50a9-ea37-4820-86ab-4159894d339e]  at 1441071995248
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441071995497
+finding Client
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071995498
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=19fa21b8-2b66-48b7-b32c-30b043a3ee09]  at 1441071995498
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071995748
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441071995998
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071996246
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=17a1632c-263d-47d5-b9ca-9ecd0b875955]  at 1441071996246
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071996745
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=838ff5c2-c534-4bf5-b6fa-5a7d60cb4ba4]  at 1441071996745
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441071996996
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441071996996
+finding Client
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071996999
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=67838ff0-7f68-47da-b3d0-3464b7a3954a]  at 1441071996999
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441071997749
+finding Client
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072011745
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=96068e3e-de58-4b98-9027-7616b3358475]  at 1441072011745
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072013745
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072013746
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=5960d210-4718-48c4-9b84-2bcc161a1cf7]  at 1441072013746
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072014246
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=110c2a04-837b-47fd-b6a9-7e4ce58b1170]  at 1441072014246
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072014496
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=2670ff87-188a-4bbd-b8e4-6cb5ef35d346]  at 1441072014496
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072015496
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=41110e6c-3605-4ad7-86d7-c72670ee15c7]  at 1441072015496
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072015746
+finding Provider
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072015996
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=c955275c-4fbe-4d5a-b496-50c719b49aa9]  at 1441072015996
+Add Services
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441072016246
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, Job=7ddee995-6c41-45bd-acc5-b1cde0bc3fee]  at 1441072016246
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072016247
+finding Provider
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072016746
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=838ff5c2-c534-4bf5-b6fa-5a7d60cb4ba4]  at 1441072016746
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072016747
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=19fa21b8-2b66-48b7-b32c-30b043a3ee09]  at 1441072016747
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072017496
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072017497
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072017996
+finding Provider
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441072018246
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072018997
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=71bdb47a-6d3d-457e-914e-60355d93ce63]  at 1441072018997
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072019247
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=c40dcdba-ad99-42c3-87be-87fefba4d5cd]  at 1441072019247
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072019747
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072019747
+finding Provider
+Get Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072019997
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=80631323-0af1-42a6-8fb1-a6e9d1c5e909]  at 1441072019997
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072020502
+finding Client
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441072020502
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=d2208152-ee82-4ecb-b9d3-6e9a11c76980]  at 1441072020502
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441072020752
+finding Client
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072021002
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=7b4d2a84-23a5-4db5-acd6-22e90069fef8]  at 1441072021003
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072021252
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=41110e6c-3605-4ad7-86d7-c72670ee15c7]  at 1441072021252
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072021253
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072021998
+finding Provider
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072022000
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=771b9236-1744-431d-8d2e-d66f669447bd]  at 1441072022000
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072022001
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=9760ec3c-4b90-47ec-995a-8192a729ee8a]  at 1441072022001
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072022002
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072022248
+finding Provider
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072022250
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072022251
+finding Client
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072022498
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=d2208152-ee82-4ecb-b9d3-6e9a11c76980]  at 1441072022498
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072022754
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=a1efd59f-bd60-427a-8b62-4a71dbeb0fd5]  at 1441072022754
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072022997
+finding Provider
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072023004
+finding Client
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072023501
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=96068e3e-de58-4b98-9027-7616b3358475]  at 1441072023501
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072023501
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072023748
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=9760ec3c-4b90-47ec-995a-8192a729ee8a]  at 1441072023748
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072023753
+finding Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072024251
+finding Client
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072024253
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=5960d210-4718-48c4-9b84-2bcc161a1cf7]  at 1441072024253
+Getting Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072024253
+Job [clientName=7f491403-21fc-483d-9e61-f0d3524ca413, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=7ddee995-6c41-45bd-acc5-b1cde0bc3fee]  at 1441072024254
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072025003
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072025004
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072025498
+finding Provider
+Getting Client
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072025505
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=110c2a04-837b-47fd-b6a9-7e4ce58b1170]  at 1441072025505
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072026249
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=771b9236-1744-431d-8d2e-d66f669447bd]  at 1441072026249
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072026255
+finding Client
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072026749
+finding Provider
+Getting Client
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072027002
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=c955275c-4fbe-4d5a-b496-50c719b49aa9]  at 1441072027002
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072027249
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=a1efd59f-bd60-427a-8b62-4a71dbeb0fd5]  at 1441072027249
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072027752
+finding Client
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072029249
+finding Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072030249
+finding Provider
+Get Provider
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072030250
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=7b4d2a84-23a5-4db5-acd6-22e90069fef8]  at 1441072030250
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072033250
+finding Provider
+Add Services
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072044752
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, Job=b4fdc97c-f267-492f-b266-450808b16675]  at 1441072044752
+Add Services
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072044752
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, Job=94af6901-ab5d-414c-b3ee-a872ca871f77]  at 1441072044752
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441072045252
+finding Provider
+Adding Offer
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441072045757
+Job [providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=eeb140f9-eec1-4b83-9585-f64af28e29d1]  at 1441072045757
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441072046007
+finding Client
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072046752
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072046753
+finding Provider
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072047753
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=500ac67a-5fef-4775-aa64-90b731d9ecb6, Job=eeb140f9-eec1-4b83-9585-f64af28e29d1]  at 1441072047753
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072047753
+Add Services
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072048002
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, Job=aa6f5e4c-c7dd-4405-9278-9c347dea21f3]  at 1441072048002
+Adding Offer
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072048758
+Job [providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=feaa8925-3870-434e-9cdf-9a7f49d73786]  at 1441072048758
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072049008
+finding Client
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072049508
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=b4fdc97c-f267-492f-b266-450808b16675]  at 1441072049508
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072049753
+finding Provider
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072050003
+finding Provider
+Adding Offer
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072050008
+Job [providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=59d46c4f-e3f6-4a63-86ba-bb930bdea669]  at 1441072050008
+Adding Offer
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072050008
+Job [providerName=86efc806-0a80-42f6-b35d-ce86d7d08aa5, Job=a55b775b-9584-40b3-aabd-a5e6b629ad6f]  at 1441072050008
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072050258
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072050259
+finding Client
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072050259
+finding Client
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072050753
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072051003
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=feaa8925-3870-434e-9cdf-9a7f49d73786]  at 1441072051004
+Getting Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072051009
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=d7a69a7f-ee1e-424a-a0de-9e084821cdec, Job=94af6901-ab5d-414c-b3ee-a872ca871f77]  at 1441072051009
+Get Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072051253
+Job [clientName=21c9a54f-8aeb-4a3e-93ee-b4869e90524a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=59d46c4f-e3f6-4a63-86ba-bb930bdea669]  at 1441072051253
+Getting Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072051258
+Job [clientName=5667f6ad-cad4-4c98-90c1-6da76401073a, providerName=9a5f8d5a-0c98-4518-b8eb-dde300055cf2, Job=aa6f5e4c-c7dd-4405-9278-9c347dea21f3]  at 1441072051259
+Adding Offer
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072051260
+Job [providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=103914e9-8ba1-4d0e-8387-c7dc20879a96]  at 1441072051260
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072051510
+finding Client
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072051759
+finding Client
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072052009
+finding Client
+Adding Offer
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072052757
+Job [providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=af942a75-a5a1-445f-8aa4-148aa18396b7]  at 1441072052757
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072053007
+finding Client
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072054004
+finding Provider
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072054254
+finding Provider
+Get Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072054504
+Job [clientName=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec, providerName=600f0049-ca56-4062-9534-88b15c2a251e, Job=103914e9-8ba1-4d0e-8387-c7dc20879a96]  at 1441072054504
+Add Services
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072055254
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, Job=4c15b65a-350f-4f07-8bfd-eea0168ebb69]  at 1441072055254
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072057254
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072057505
+finding Provider
+Get Provider
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072058005
+Job [clientName=6f194069-c6a0-4913-9c13-02ca7485ac09, providerName=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f, Job=af942a75-a5a1-445f-8aa4-148aa18396b7]  at 1441072058005
+Add Services
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072058255
+Job [clientName=c947df43-bd01-4dcc-bcfa-56628c85b399, Job=fbb23ceb-3024-4894-8c87-bcab1385a70c]  at 1441072058255
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072060255
+finding Provider
+Clients [name=d6f63598-3e3d-4ce7-9563-d3fcfaaa2bec] at 1441072060898 Total jobs 18 Total offered 14
+Providers [name=d90360d1-38f6-4ef5-9537-1dcbd2dcad5f] at 1441072060898 Total Jobs 19 Total Offered 16
+Clients [name=21c9a54f-8aeb-4a3e-93ee-b4869e90524a] at 1441072060898 Total jobs 13 Total offered 20
+Providers [name=500ac67a-5fef-4775-aa64-90b731d9ecb6] at 1441072060898 Total Jobs 14 Total Offered 17
+Clients [name=5667f6ad-cad4-4c98-90c1-6da76401073a] at 1441072060898 Total jobs 18 Total offered 18
+Providers [name=d7a69a7f-ee1e-424a-a0de-9e084821cdec] at 1441072060899 Total Jobs 17 Total Offered 17
+Clients [name=7f491403-21fc-483d-9e61-f0d3524ca413] at 1441072060899 Total jobs 10 Total offered 17
+Providers [name=9a5f8d5a-0c98-4518-b8eb-dde300055cf2] at 1441072060899 Total Jobs 16 Total Offered 16
+Clients [name=c947df43-bd01-4dcc-bcfa-56628c85b399] at 1441072060899 Total jobs 20 Total offered 15
+Providers [name=86efc806-0a80-42f6-b35d-ce86d7d08aa5] at 1441072060899 Total Jobs 15 Total Offered 19
+Clients [name=6f194069-c6a0-4913-9c13-02ca7485ac09] at 1441072060899 Total jobs 25 Total offered 13
+Providers [name=600f0049-ca56-4062-9534-88b15c2a251e] at 1441072060899 Total Jobs 14 Total Offered 20
+1441072060899

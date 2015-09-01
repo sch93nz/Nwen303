@@ -33,10 +33,12 @@ public class BillBoard {
 	public FileWriter write;
 	
 	public static void main(String[] args){
-		new BillBoard().begin(16);
+		int num = Integer.parseInt(args[0]);
+		int time = Integer.parseInt(args[1]);
+		new BillBoard().begin(num,time);
 	}
 
-	private void begin(int max) {
+	private void begin(int max,int time) {
 		try {
 			File temp = new File("runAt"+System.currentTimeMillis()+".txt");
 			
@@ -56,7 +58,7 @@ public class BillBoard {
 		}
 		
 		try {
-			exector.awaitTermination(10, TimeUnit.MINUTES);
+			exector.awaitTermination(time, TimeUnit.MINUTES);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -102,6 +104,9 @@ public class BillBoard {
 					if(offeringServices[k]!=null && offeringServices[k].name.equals(temp.getProviderName())){
 						offeringServices[k].current = null;
 					}
+					if(servicesRequired[k]!=null && servicesRequired[k].name.equals(temp.getClientName())){
+						servicesRequired[k].current = null;
+					}
 				}
 				return temp;
 			}
@@ -118,6 +123,9 @@ public class BillBoard {
 				for(int k=0;k<100;k++){
 					if(servicesRequired[k]!=null && servicesRequired[k].name.equals(temp.getClientName())){
 						servicesRequired[k].current = null;
+					}
+					if(offeringServices[k]!=null && offeringServices[k].name.equals(temp.getProviderName())){
+						offeringServices[k].current = null;
 					}
 				}
 				return temp;
@@ -196,6 +204,10 @@ public class BillBoard {
 		@Override
 		public void run() {
 			while(running){
+				if(current !=null&&current.getProviderName()!=null){
+					current = null;
+				}
+				
 				try {
 					boolean temp =requireService();
 					if(temp){
@@ -327,6 +339,10 @@ public class BillBoard {
 		@Override
 		public void run() {
 			while(running){
+				if(current != null && current.getClientName()!=null){
+					current = null;
+				}
+				
 				try {
 					boolean temp =offeringServices();
 					if(temp){
