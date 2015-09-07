@@ -1,0 +1,580 @@
+1441075972170
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441075972427
+finding Provider
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441075972428
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441075972428
+finding Provider
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441075972428
+finding Client
+Add Services
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441075997475
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, Job=bcc2352c-a8aa-45e8-bdd7-4862765caa11, Max=1, Current=0] at 1441075997476Add Services
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441075997475
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, Job=b9d355fb-8003-454c-974c-e98f92bca06c, Max=1, Current=0] at 1441075997476Adding Offer
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441075997476
+Job2 [clientsName=[null, null], providerName=128994e6-daf3-465b-b6a3-dc0e3e689ca4, Job=c009f26f-6957-445d-bf07-1484ce52d43d, Max=2, Current=0] at 1441075997476Adding Offer
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441075997485
+Job2 [clientsName=[null], providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=101c0607-e547-4a05-a914-219f906354f2, Max=1, Current=0] at 1441075997485Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441075997727
+finding Client
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441075997736
+finding Client
+Getting Client
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441075998236
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=bcc2352c-a8aa-45e8-bdd7-4862765caa11, Max=1, Current=0] at 1441075998236Getting Client
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441075998479
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, providerName=128994e6-daf3-465b-b6a3-dc0e3e689ca4, Job=b9d355fb-8003-454c-974c-e98f92bca06c, Max=1, Current=0] at 1441075998479Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441075998988
+finding Client
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441075999230
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441075999477
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441075999477
+finding Provider
+Adding Offer
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076024036
+Job2 [clientsName=[null, null, null, null, null, null, null], providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=b26c3207-09e9-414f-bc0b-3f7bc4d990ed, Max=7, Current=0] at 1441076024036Adding Offer
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076024270
+Job2 [clientsName=[null], providerName=128994e6-daf3-465b-b6a3-dc0e3e689ca4, Job=cac03fe2-cb7f-46d5-a3fc-f0c13ee548b4, Max=1, Current=0] at 1441076024270Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076024286
+finding Client
+Add Services
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076024520
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, Job=0c86cea1-0faf-4e92-bd06-cc0383599906, Max=1, Current=0] at 1441076024520Add Services
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076024520
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, Job=4e451286-bcf7-4248-8b7c-06a1431dc6ad, Max=1, Current=0] at 1441076024520Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076024520
+finding Client
+Getting Client
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076025790
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=0c86cea1-0faf-4e92-bd06-cc0383599906, Max=1, Current=0] at 1441076025790Getting Client
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076026273
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, providerName=128994e6-daf3-465b-b6a3-dc0e3e689ca4, Job=4e451286-bcf7-4248-8b7c-06a1431dc6ad, Max=1, Current=0] at 1441076026273Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076026521
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076026521
+finding Provider
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076026541
+finding Client
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076027022
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076027024
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076029022
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076030023
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076032024
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076032776
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076034776
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076035529
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076037530
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076038031
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076040031
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076040532
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076042533
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076043534
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076045534
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076046286
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076048287
+finding Provider
+Add Services
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076051568
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, Job=64f6e9b6-7b79-43c5-b7e2-4f117e42d243, Max=1, Current=0] at 1441076051568Adding Offer
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076051581
+Job2 [clientsName=[null, null, null, null], providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=ba1667c3-173b-4754-aa60-46b2bdce1ead, Max=4, Current=0] at 1441076051581Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076051831
+finding Client
+Adding Offer
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076052073
+Job2 [clientsName=[null, null, null], providerName=128994e6-daf3-465b-b6a3-dc0e3e689ca4, Job=4a39966b-365b-47fe-8665-101dee7a5ae4, Max=3, Current=0] at 1441076052073Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076052324
+finding Client
+Getting Client
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076053334
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=64f6e9b6-7b79-43c5-b7e2-4f117e42d243, Max=1, Current=0] at 1441076053334Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076053569
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076054070
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076054085
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076056070
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076056576
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076058577
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076059078
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076061079
+finding Provider
+Add Services
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076073335
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, Job=91fb23d4-d845-47be-9778-2a76cf34ec8e, Max=1, Current=0] at 1441076073335Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076075336
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076076338
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076077617
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076078338
+finding Provider
+Adding Offer
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076079133
+Job2 [clientsName=[null, null], providerName=0c1ac514-5b5f-4be2-9ad3-852518266d52, Job=9f87d975-beb1-4462-9aca-62737e24f511, Max=2, Current=0] at 1441076079133Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076079339
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076079385
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076081339
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076081840
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076083840
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076084340
+Add Services
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076086130
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, Job=db02c9e9-57c7-4633-91da-6e3ce94dacdb, Max=1, Current=0] at 1441076086130Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076086341
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076088131
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076088631
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076090631
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076091383
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076093384
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076093885
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076095886
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076096648
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076098649
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076099651
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076101652
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076102153
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076102920
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076104153
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076104654
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076104705
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076106655
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076107156
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076109157
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076109658
+Add Services
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076111400
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, Job=018975dd-75b2-49ca-af10-8c13f2fc9721, Max=1, Current=0] at 1441076111400Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076111659
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076113401
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076114404
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076116405
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076117408
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076119409
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076121162
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076123162
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076123913
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076125913
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076126664
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076128218
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076128664
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076129165
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076130005
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076131166
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076132168
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076134169
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076134670
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076136670
+finding Provider
+Add Services
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076136705
+Job2 [clientName=8c26a17c-f075-463f-9296-5fd98c8ff2bb, Job=6b64a15f-b930-4675-b8e3-895882b779b8, Max=1, Current=0] at 1441076136705Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076137171
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076138705
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076139171
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076139205
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076139672
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076141206
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076141672
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076141707
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076142423
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076143707
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076144423
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076144458
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076145175
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076146469
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076147176
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076147220
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076147676
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076149221
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076149676
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076150222
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076150678
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076152222
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076152679
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076152973
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076153180
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076153516
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076154974
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076155181
+finding Provider
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076155308
+finding Client
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076155475
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076155682
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076157476
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076157682
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076157978
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076159978
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076160479
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076162479
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076162980
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076164981
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076165483
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076167484
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076167985
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076169986
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076170737
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076172737
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076173238
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076175239
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076176241
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076178241
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076178743
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076178813
+finding Client
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076180604
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076180743
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076181995
+Add Services
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076182727
+Job2 [clientName=aff19e09-54a1-4a83-bc14-76d1e90b8b89, Job=dd1c2644-c947-4463-b480-573841abf0ff, Max=1, Current=0] at 1441076182727Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076183995
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076184498
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076184727
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076185478
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076186498
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076187479
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076187500
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076187979
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076189500
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076189979
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076190503
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076190730
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076192504
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076192731
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076193004
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076193482
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076195004
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076195482
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076195505
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076195984
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076197506
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076197984
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076198256
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076198735
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076200263
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076200735
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076200766
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076201486
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076202766
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076203268
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076203486
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076203987
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076204139
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076205268
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076205768
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076205987
+finding Provider
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076206001
+finding Client
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076206738
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076207769
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076208271
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076208739
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076209240
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076210271
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076210772
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076211240
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076211741
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076212773
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076213274
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076213742
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076214242
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076215274
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076215775
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076216243
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076216995
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076217775
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076218275
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076218996
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076219496
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076220276
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076221277
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076221497
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076221998
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076223277
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076223999
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076224029
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076224500
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076226029
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076226501
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076226530
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076227253
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076228531
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076229253
+finding Provider
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076229445
+finding Client
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076229532
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076229754
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076231300
+finding Client
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076231532
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076231766
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076232321
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076232768
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076234322
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076234769
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076235270
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076235324
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076237271
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076237324
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076237771
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076238358
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076239772
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076240272
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076240358
+finding Provider
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076240860
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076242272
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076242861
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076243274
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076243396
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076245278
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076245398
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076245778
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076245899
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076247779
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076247899
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076248279
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076248399
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076250280
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076250400
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076251283
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076251401
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076253284
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076253401
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076253784
+Get Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076254403
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076254900
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076255784
+finding Provider
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076256403
+finding Provider
+Get Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076256786
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076256852
+finding Client
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076258786
+finding Provider
+Clients [name=aff19e09-54a1-4a83-bc14-76d1e90b8b89] at 1441076272427 Total jobs 0 Total offered 5
+Providers [name=128994e6-daf3-465b-b6a3-dc0e3e689ca4] at 1441076272427 Total Jobs 2 Total Offered 3
+Clients [name=8c26a17c-f075-463f-9296-5fd98c8ff2bb] at 1441076272427 Total jobs 0 Total offered 5
+Providers [name=0c1ac514-5b5f-4be2-9ad3-852518266d52] at 1441076272427 Total Jobs 3 Total Offered 4
+1441076272428
